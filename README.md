@@ -27,7 +27,7 @@ No third-party Python package is required for the basic GUI and CLI entry points
 Clone the repository and enter the project folder:
 
 ```bat
-git clone https://github.com/your-name/shorts_auto_editor.git
+git clone https://github.com/oopsemode/shorts_auto_editor.git
 cd shorts_auto_editor
 ```
 
