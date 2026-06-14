@@ -1,0 +1,12 @@
+[
+  {
+    "rank": 1,
+    "source_candidate_id": "demo-001",
+    "start": "00:01:05.000",
+    "end": "00:01:40.000",
+    "duration": 35,
+    "reason": "Dummy example range for documentation.",
+    "selection_source": "example",
+    "layout_preset": "screen_focus"
+  }
+]

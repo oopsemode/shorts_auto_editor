@@ -1,0 +1,7 @@
+1
+00:01:05,000 --> 00:01:08,000
+This is a dummy subtitle line.
+
+2
+00:01:08,500 --> 00:01:12,000
+Replace this with your own local subtitle file.
